@@ -58,3 +58,10 @@ This project was created to practice:
 ---
 
 Developed as a practice project to strengthen JavaScript fundamentals.
+
+---
+
+# Author
+
+Iván David Caro Vargas  
+Aspiring Full Stack Developer  
